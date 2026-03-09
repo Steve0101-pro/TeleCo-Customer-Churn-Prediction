@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/User/Desktop/workshop/New folder/New folder/Prediction/mlruns/152165001759640200
+creation_time: 1771861687930
+experiment_id: '152165001759640200'
+last_update_time: 1771861687930
+lifecycle_stage: active
+name: Telco Churn - VotingClassifier Optuna
+workspace: default
